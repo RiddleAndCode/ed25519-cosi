@@ -1,6 +1,7 @@
 # Collective Edwards-Curve Digital Signature Algorithm
 
 Under Development and sparsely tested, please use at your own risk.
+This is one major building block to integrate collective signing to BigchainDB.
 
 ## Installation
 
